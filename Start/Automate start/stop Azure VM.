@@ -1,0 +1,21 @@
+1.Create Automation account.
+2.Search Start/stop.
+3.Create the Create a new workspace
+4.Configure the parameters.
+5.Select the start time 10:00AM and stop time 7:00AM.
+6.We can enable email notification here.
+7.Click on create.
+8.Open Automation account.
+9.Click on runbooks
+10.Select the Schdulestartstop_parent.
+11.Click on schedule and check the time zone's.
+Now test this in test env:
+1.Open automation account then click on runbook's
+2.Click on Schdulestartstop_parent then select on Overview.
+3.Then select the edit.
+4.Click on text pane.
+5.action start
+6.vm name
+7.click on start then observe the results.
+
+Note: Make sure all are in same location and resource group.
